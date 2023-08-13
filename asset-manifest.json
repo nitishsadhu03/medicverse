@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medicverse/static/css/main.b6cc6cf1.css",
+    "main.js": "/medicverse/static/js/main.10808824.js",
+    "static/media/hero.png": "/medicverse/static/media/hero.44c4547154484a484261.png",
+    "static/media/logo.png": "/medicverse/static/media/logo.78b70410b36f564ed3fd.png",
+    "index.html": "/medicverse/index.html",
+    "main.b6cc6cf1.css.map": "/medicverse/static/css/main.b6cc6cf1.css.map",
+    "main.10808824.js.map": "/medicverse/static/js/main.10808824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6cc6cf1.css",
+    "static/js/main.10808824.js"
+  ]
+}
